@@ -5,7 +5,7 @@
 ## `Sales Report`
 
 * **Project Objective:**
-  1. Create a customer performance report.
+  1.Create a [customer performance report](Customer%20Performance%20Report.pdf).
   2. Conduct a comprehensive comparison between market performance and sales targets.
 * **Purpose of Sales Analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 * **Importance of Analyzing Sales Data:** Identify sales patterns and track key performance indicators (KPIs).
